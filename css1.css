@@ -16,7 +16,7 @@
     height: 100vh;
     width: auto;
     
-    background: linear-gradient(135deg, rgb(13, 27, 83),rgb(55, 55, 221),rgb(177, 23, 166));
+    background: linear-gradient(135deg, rgb(54, 37, 115),rgb(55, 55, 221),rgb(177, 23, 166));
    
     
 }
@@ -31,6 +31,7 @@
     display: flex;
      align-items: center;
     justify-content: center;
+    justify-content: space-evenly;
 }
 .box{
  width: auto;
